@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Beloin
+- Computer Engineering Student, enthusiast on the low level aspect of computers. I like to know how really do things works from bit to bit!
 
 <div align="center">
   <a href="https://github.com/Beloin">
