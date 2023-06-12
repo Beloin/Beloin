@@ -26,6 +26,15 @@ Swarms are naturally observed in insects and animals, where the individual activ
   <img src="https://github.com/Beloin/SwarmEngine/blob/master/resources/multiple-swarm-multiple.gif"/>
 </div>
 
+## Embedded Projects
+
+### [Simple Weather Station](https://github.com/Beloin/WeatherStation)
+
+In this project, we show a simple Weather Application, using ESP32 and OLED. A simple OLed display shows the current temperature and the humidity using the DHT11 sensor and the attached button works as the user interaction to the application. Where I used interruptions, button deounce and third-party APIs to help me develop this simple embedded project.
+
+<div align="center">
+  <img src="https://github.com/Beloin/WeatherStation/blob/master/docs/representation.gif"/>
+</div>
 
 
 <!---
