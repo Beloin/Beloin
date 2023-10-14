@@ -23,7 +23,7 @@ My main goal is become a really good low-level engineer, focus on C language, Sh
 Swarms are naturally observed in insects and animals, where the individual activity are suppressed by the group will. Here I implemented a small Swarm engine using OpenGL (Graphics Computer API), GLFW and GLAD to copy and simulate the swarm behaviour.
 
 <div align="center">
-  <img src="https://github.com/Beloin/2DPhysicsSimulator/blob/master/resources/AABB.png"/>
+  <img src="https://github.com/Beloin/SwarmEngine/blob/master/resources/multiple-swarm-multiple.gif"/>
 </div>
 
 ### [2DPhysicsSimulator](https://github.com/Beloin/2DPhysicsSimulator)
@@ -31,9 +31,8 @@ Swarms are naturally observed in insects and animals, where the individual activ
 A small Physics engine implemented in C. Used in the Swarm Engine to act as the main engine.
 
 <div align="center">
-  <img src="https://github.com/Beloin/LCD_Rasp_Weather/blob/master/docs/hardware.jpeg"/>
+  <img src="https://github.com/Beloin/2DPhysicsSimulator/blob/master/resources/AABB.png"/>
 </div>
-
 
 ## Embedded Projects
 
