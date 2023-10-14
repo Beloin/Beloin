@@ -31,7 +31,7 @@ Swarms are naturally observed in insects and animals, where the individual activ
 A small Physics engine implemented in C. Used in the Swarm Engine to act as the main engine.
 
 <div align="center">
-  <img src="https://github.com/Beloin/2DPhysicsSimulator/blob/master/resources/AABB.png"/>
+  <img src="https://github.com/Beloin/LCD_Rasp_Weather/blob/master/docs/hardware.jpeg"/>
 </div>
 
 
@@ -45,6 +45,11 @@ In this project, we show a simple Weather Application, using ESP32 and OLED. A s
   <img src="https://github.com/Beloin/WeatherStation/blob/master/docs/representation.gif"/>
 </div>
 
+## Embedded Projects
+
+### [Simple Weather Station With Raspberry PI](https://github.com/Beloin/WeatherStation)
+
+In this project, was implemented again a Simple Weather Station, but now using Rasberry PI as "MCU" and programming in C++. In order to run both in Linux system and Raspberry PI, it was created conditional compilation to achieve "portable" code to ease the tests"
 
 <!---
 Beloin/Beloin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
