@@ -36,15 +36,13 @@ A small Physics engine implemented in C. Used in the Swarm Engine to act as the 
 
 ## Embedded Projects
 
-### [Simple Weather Station](https://github.com/Beloin/WeatherStation)
+### [Simple Weather Station with ESP32](https://github.com/Beloin/WeatherStation)
 
 In this project, we show a simple Weather Application, using ESP32 and OLED. A simple OLed display shows the current temperature and the humidity using the DHT11 sensor and the attached button works as the user interaction to the application. Where I used interruptions, button deounce and third-party APIs to help me develop this simple embedded project.
 
 <div align="center">
   <img src="https://github.com/Beloin/WeatherStation/blob/master/docs/representation.gif"/>
 </div>
-
-## Embedded Projects
 
 ### [Simple Weather Station With Raspberry PI](https://github.com/Beloin/WeatherStation)
 
