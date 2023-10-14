@@ -23,7 +23,7 @@ My main goal is become a really good low-level engineer, focus on C language, Sh
 Swarms are naturally observed in insects and animals, where the individual activity are suppressed by the group will. Here I implemented a small Swarm engine using OpenGL (Graphics Computer API), GLFW and GLAD to copy and simulate the swarm behaviour.
 
 <div align="center">
-  <img src="https://github.com/Beloin/SwarmEngine/blob/master/resources/multiple-swarm-multiple.gif"/>
+  <img src="https://github.com/Beloin/2DPhysicsSimulator/blob/master/resources/AABB.png"/>
 </div>
 
 ### [2DPhysicsSimulator](https://github.com/Beloin/2DPhysicsSimulator)
@@ -49,7 +49,11 @@ In this project, we show a simple Weather Application, using ESP32 and OLED. A s
 
 ### [Simple Weather Station With Raspberry PI](https://github.com/Beloin/WeatherStation)
 
-In this project, was implemented again a Simple Weather Station, but now using Rasberry PI as "MCU" and programming in C++. In order to run both in Linux system and Raspberry PI, it was created conditional compilation to achieve "portable" code to ease the tests"
+In this project, was implemented again a Simple Weather Station, but now using Rasberry PI as controller and programming in C++ again using CMake. In order to run both in Linux system and Raspberry PI, it was created conditional compilation to achieve "portable" code to ease the tests.
+
+<div align="center">
+  <img src="https://github.com/Beloin/LCD_Rasp_Weather/blob/master/docs/hardware.jpeg"/>
+</div>
 
 <!---
 Beloin/Beloin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
