@@ -36,6 +36,14 @@ A small Physics engine implemented in C. Used in the Swarm Engine to act as the 
 
 ## Embedded Projects
 
+### [Simple Weather Station With Raspberry PI](https://github.com/Beloin/WeatherStation)
+
+In this project, was implemented again a Simple Weather Station, but now using Rasberry PI as controller and programming in C++ again using CMake. In order to run both in Linux system and Raspberry PI, it was created conditional compilation to achieve "portable" code to ease the tests.
+
+<div align="center">
+  <img src="https://github.com/Beloin/LCD_Rasp_Weather/blob/master/docs/hardware.jpeg"/>
+</div>
+
 ### [Simple Weather Station with ESP32](https://github.com/Beloin/WeatherStation)
 
 In this project, we show a simple Weather Application, using ESP32 and OLED. A simple OLed display shows the current temperature and the humidity using the DHT11 sensor and the attached button works as the user interaction to the application. Where I used interruptions, button deounce and third-party APIs to help me develop this simple embedded project.
@@ -44,13 +52,6 @@ In this project, we show a simple Weather Application, using ESP32 and OLED. A s
   <img src="https://github.com/Beloin/WeatherStation/blob/master/docs/representation.gif"/>
 </div>
 
-### [Simple Weather Station With Raspberry PI](https://github.com/Beloin/WeatherStation)
-
-In this project, was implemented again a Simple Weather Station, but now using Rasberry PI as controller and programming in C++ again using CMake. In order to run both in Linux system and Raspberry PI, it was created conditional compilation to achieve "portable" code to ease the tests.
-
-<div align="center">
-  <img src="https://github.com/Beloin/LCD_Rasp_Weather/blob/master/docs/hardware.jpeg"/>
-</div>
 
 <!---
 Beloin/Beloin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
