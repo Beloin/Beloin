@@ -44,6 +44,15 @@ In this project, was implemented again a Simple Weather Station, but now using R
   <img src="https://github.com/Beloin/LCD_Rasp_Weather/blob/master/docs/hardware.jpeg"/>
 </div>
 
+### [PIC16 PI Controller](https://github.com/Beloin/PID_Controller_PIC16)
+
+A DC-DC Converter using PIC16 MCU to hold the voltage to desired output.
+
+<div align="center">
+  <img src="https://github.com/Beloin/PID_Controller_PIC16/blob/master/proj_3.bmp"/>
+</div>
+
+
 ### [Simple Weather Station with ESP32](https://github.com/Beloin/WeatherStation)
 
 In this project, we show a simple Weather Application, using ESP32 and OLED. A simple OLed display shows the current temperature and the humidity using the DHT11 sensor and the attached button works as the user interaction to the application. Where I used interruptions, button deounce and third-party APIs to help me develop this simple embedded project.
