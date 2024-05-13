@@ -13,7 +13,7 @@
 
 # Projects
 
-My main goal is become a really good low-level engineer, focus on C language, Shell Script, Embedded Engineering and OS perks. I will list a few of my projects below.
+My main goal is become a really good low-level engineer, focus on C/C++ language, Shell Script, Firmware and Kernel Engineering and OS perks. I will list a few of my projects below.
 
 
 ## C Based projects
@@ -58,7 +58,7 @@ A DC-DC Converter using PIC16 MCU to hold the voltage to desired output.
 In this project, we show a simple Weather Application, using ESP32 and OLED. A simple OLed display shows the current temperature and the humidity using the DHT11 sensor and the attached button works as the user interaction to the application. Where I used interruptions, button deounce and third-party APIs to help me develop this simple embedded project.
 
 <div align="center">
-  <img src="https://github.com/Beloin/WeatherStation/blob/master/docs/representation.gif"/>
+  <img src="https://github.com/Beloin/WeatherStation/blob/master/docs/kicad.jpeg"/>
 </div>
 
 
