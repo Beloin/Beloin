@@ -13,7 +13,8 @@
 
 # Projects
 
-My main goal is become a really good low-level engineer, focus on C/C++ language, Shell Script, Firmware and Kernel Engineering and OS perks. I will list a few of my projects below.
+My main goal is become a really good low-level engineer, focus on C/C++ language, Shell Script,
+Firmware and Kernel Engineering and finally Linux programmer. I will list a few of my projects below.
 
 
 ## C Based projects
