@@ -37,7 +37,9 @@ A small Physics engine implemented in C. Used in the Swarm Engine to act as the 
 
 ### Kernel Driver (WIP)
 
-![WIP](https://github.com/Beloin/Beloin/assets/48112126/d827ad81-082e-4afc-8755-aef025ebab0f)
+<div align="center">
+  <img src="https://github.com/Beloin/Beloin/assets/48112126/d827ad81-082e-4afc-8755-aef025ebab0f"/>
+</div>
 
 ## Embedded Projects
 
