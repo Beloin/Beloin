@@ -49,6 +49,16 @@ Implementation of TWAMP protocol using C++ and Linux raw socket calls.
   <img src="https://github.com/Beloin/TWAMPCpp/blob/master/resources/Twamp_overall_CLIENT_SERVER.png"/>
 </div>
 
+### [Solitaire Game](https://github.com/Beloin/PPDOneLeftGame)
+
+> C++, QT, Network and Linux
+
+A solitaire game implementation in C++ and QT using raw socket calls and custom protocol implementations.
+
+<div align="center">
+  <img src="https://github.com/Beloin/Beloin/assets/48112126/79f83426-180d-4e67-99a7-cc7714b37747"/>
+</div>
+
 ### Kernel Driver (WIP)
 
 > C, Linux and Kernel
