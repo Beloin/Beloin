@@ -21,6 +21,8 @@ Firmware and Kernel Engineering and finally Linux programmer. I will list a few 
 
 ### [Swarm Engine](https://github.com/Beloin/SwarmEngine)
 
+> C, Linux and OpenGL
+
 Swarms are naturally observed in insects and animals, where the individual activity are suppressed by the group will. Here I implemented a small Swarm engine using OpenGL (Graphics Computer API), GLFW and GLAD to copy and simulate the swarm behaviour.
 
 <div align="center">
@@ -29,6 +31,8 @@ Swarms are naturally observed in insects and animals, where the individual activ
 
 ### [2DPhysicsSimulator](https://github.com/Beloin/2DPhysicsSimulator)
 
+> C
+
 A small Physics engine implemented in C. Used in the Swarm Engine to act as the main engine.
 
 <div align="center">
@@ -36,6 +40,8 @@ A small Physics engine implemented in C. Used in the Swarm Engine to act as the 
 </div>
 
 ### Kernel Driver (WIP)
+
+> C, Linux and Kernel
 
 <div align="center">
   <img src="https://github.com/Beloin/Beloin/assets/48112126/d827ad81-082e-4afc-8755-aef025ebab0f"/>
