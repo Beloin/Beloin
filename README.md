@@ -53,7 +53,7 @@ Implementation of TWAMP protocol using C++ and Linux raw socket calls.
 
 > C++, QT, Network and Linux
 
-A solitaire game implementation in C++ and QT using raw socket calls and custom protocol implementations.
+A solitaire game implementation in C++ and QT using raw socket calls and custom protocol implementations. The implementation consists of a Server and a Client.
 
 <div align="center">
   <img src="https://github.com/Beloin/Beloin/assets/48112126/79f83426-180d-4e67-99a7-cc7714b37747"/>
