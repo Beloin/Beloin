@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/febc28e4-ca46-421b-bf2a-7c9b34f57bef)- 👋 Hi, I’m @Beloin
+- 👋 Hi, I’m @Beloin
 - Computer Engineering Student, enthusiast on the low level aspect of computers. I like to know how really do things works from bit to bit!
 
 <div align="center">
