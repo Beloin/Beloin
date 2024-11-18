@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Beloin
+![image](https://github.com/user-attachments/assets/febc28e4-ca46-421b-bf2a-7c9b34f57bef)- 👋 Hi, I’m @Beloin
 - Computer Engineering Student, enthusiast on the low level aspect of computers. I like to know how really do things works from bit to bit!
 
 <div align="center">
@@ -16,6 +16,21 @@
 My main goal is become a really good low-level engineer, focus on C/C++ language, Shell Script,
 Firmware and Kernel Engineering and finally Linux programmer. I will list a few of my projects below.
 
+## Golang Projects
+
+### [Distributed Server](https://github.com/Beloin/DistributedContactsServerPPD)
+
+> Golang, C++ for Frontend using QT
+
+Distributed servers to save Contacts. User can connect to any three know "DNS", using linux hosts to simulate a DNS server. All three servers connect to eachother using Lamport Clock to keep track of changes.
+
+![image](https://github.com/user-attachments/assets/be163ed6-d2c7-4b11-ad51-02c09b74916e)
+
+Example of `Server 1` connected with `Server 2`.
+![image](https://github.com/user-attachments/assets/7b57b0e6-ff28-499f-8695-a6be75321464)
+
+Frontend usage:
+![image](https://github.com/user-attachments/assets/f0c151f8-e30c-4020-afdf-676810494728)
 
 ## C/C++ Based projects
 
