@@ -78,6 +78,8 @@ A solitaire game implementation in C++ and QT using raw socket calls and custom 
 
 > C, Linux and Kernel
 
+Started a [project](https://github.com/Beloin/workqueue-driver-example) of a kernel driver using custom workqueues and simple initialization.
+
 <div align="center">
   <img src="https://github.com/Beloin/Beloin/assets/48112126/d827ad81-082e-4afc-8755-aef025ebab0f"/>
 </div>
