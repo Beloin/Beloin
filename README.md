@@ -10,7 +10,7 @@ My main goal is become a really good Distributed Systems engineer, focusing on M
 
 ## Golang Projects
 
-### [Distributed Server](https://github.com/Beloin/DistributedContactsServerPPD)
+### [Distributed Contacts Server](https://github.com/Beloin/DistributedContactsServerPPD)
 
 > Golang, C++ for Frontend using QT
 
@@ -65,44 +65,6 @@ A solitaire game implementation in C++ and QT using raw socket calls and custom 
 <div align="center">
   <img src="https://github.com/Beloin/Beloin/assets/48112126/79f83426-180d-4e67-99a7-cc7714b37747"/>
 </div>
-
-### Kernel Driver (WIP)
-
-> C, Linux and Kernel
-
-Started a [project](https://github.com/Beloin/workqueue-driver-example) of a kernel driver using custom workqueues and simple initialization.
-
-<div align="center">
-  <img src="https://github.com/Beloin/Beloin/assets/48112126/d827ad81-082e-4afc-8755-aef025ebab0f"/>
-</div>
-
-## Embedded Projects
-
-### [Simple Weather Station With Raspberry PI](https://github.com/Beloin/WeatherStation)
-
-In this project, was implemented again a Simple Weather Station, but now using Rasberry PI as controller and programming in C++ again using CMake. In order to run both in Linux system and Raspberry PI, it was created conditional compilation to achieve "portable" code to ease the tests.
-
-<div align="center">
-  <img src="https://github.com/Beloin/LCD_Rasp_Weather/blob/master/docs/hardware.jpeg"/>
-</div>
-
-### [PIC16 PI Controller](https://github.com/Beloin/PID_Controller_PIC16)
-
-A DC-DC Converter using PIC16 MCU to hold the voltage to desired output.
-
-<div align="center">
-  <img src="https://github.com/Beloin/PID_Controller_PIC16/blob/master/proj_3.bmp"/>
-</div>
-
-
-### [Simple Weather Station with ESP32](https://github.com/Beloin/WeatherStation)
-
-In this project, we show a simple Weather Application, using ESP32 and OLED. A simple OLed display shows the current temperature and the humidity using the DHT11 sensor and the attached button works as the user interaction to the application. Where I used interruptions, button deounce and third-party APIs to help me develop this simple embedded project.
-
-<div align="center">
-  <img src="https://github.com/Beloin/WeatherStation/blob/master/docs/kicad.jpeg"/>
-</div>
-
 
 <!---
 Beloin/Beloin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
