@@ -1,20 +1,12 @@
 - 👋 Hi, I’m @Beloin
 - Computer Engineering Student, enthusiast on the low level aspect of computers. I like to know how really do things works from bit to bit!
-
-<div align="center">
-  <a href="https://github.com/Beloin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beloin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beloin&layout=compact&langs_count=7&theme=tokyonight&hide=Jupyter%20Notebook,HTML"/>
-</div>
-
- - Email:  beloin.rodrigues@gmail.com
- - LinkedIn: [Beloin Sena](https://www.linkedin.com/in/beloin-sena-8374a11a9/)
+- Email:  beloin.rodrigues@gmail.com
+- LinkedIn: [Beloin Sena](https://www.linkedin.com/in/beloin-sena-8374a11a9/)
 
 
 # Projects
 
-My main goal is become a really good low-level engineer, focus on C/C++ language, Shell Script,
-Firmware and Kernel Engineering and finally Linux programmer. I will list a few of my projects below.
+My main goal is become a really good Distributed Systems engineer, focusing on Microsservices and Data Pipelines. I will list a few of my projects below.
 
 ## Golang Projects
 
