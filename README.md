@@ -17,7 +17,7 @@ My main goal is become a really good Distributed Systems engineer, focusing on M
 Back-End for chat-edited PDFs and slideshows. Runs its own LLM harness: a Rust chat loop asks an AI to edit PDFs and slides and gives it tools via MCP calls. Rust fetches tool schemas through MCP `tools/list` at the Go server's `/mcp` endpoint, then turns LLM tool calls into MCP `tools/call` requests.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Beloin/PDFGeneratorBack/master/docs/pdf_edit.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/Beloin/PDFGeneratorBack/master/docs/pdf_edit.png" />
 </div>
 
 ## Golang Projects
